@@ -8,4 +8,4 @@ KoBERT 모델과 Hugging Face 라이브러리를 이용한 custmized deep learni
 
 ----
 ### 파일 설명  
-BERT_code: 최종 제출에 사용한 코드 입니다.
+K러닝_ode: 최종 제출에 사용한 코드 입니다.
